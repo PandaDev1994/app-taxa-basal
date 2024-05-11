@@ -1,6 +1,6 @@
 # projeto_taxa_basal
 
-A new Flutter project.
+Pequeno projeto que realiza o caulculo da taxa basal.
 
 ## Getting Started
 
